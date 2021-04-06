@@ -1,3 +1,9 @@
+body
+{
+    font-family: comic sans ms;
+    margin: 0 0;
+}
+
 /* Style inputs, select elements and textareas */
 input[type=text], select, textarea{
     width: 100%;
@@ -32,6 +38,7 @@ input[type=text], select, textarea{
     padding: 50px;
     margin-left: 30%;
     margin-right: 30%;
+    margin-top: 1%;
   }
   
   /* Floating column for labels: 25% width */
